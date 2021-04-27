@@ -1,8 +1,14 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
 h1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     text-align: center;
+    color: #fff;
 }
 
 .container {
@@ -12,4 +18,8 @@ h1 {
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+div {
+    margin: 0 auto;
 }
